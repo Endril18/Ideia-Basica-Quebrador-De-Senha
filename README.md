@@ -1,4 +1,4 @@
-# Quebrador de Senhas :pick 
+# Quebrador de Senhas ⛏️
 
 E aí, beleza?! Bem-vindo ao meu código para quebrar senhas simples :wave:
 
